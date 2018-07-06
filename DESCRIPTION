@@ -1,0 +1,12 @@
+Package: grid3Covariates
+Type: Package
+Title: grid3Covariates Package for downloading raster datasets from WorldPop FTP
+Version: 0.1.0
+Author: Maksym Bondarenko and Chris Jochem <W.C.Jochem@soton.ac.uk>
+Maintainer: The package maintainer <mb4@soton.ac.uk>
+Depends: R (>= 3.2.0)
+Description: grid3Covariates Package for downloading raster datasets from WorldPop FTP server
+License: GPL
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
